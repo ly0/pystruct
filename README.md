@@ -1,2 +1,2 @@
 # pystruct
-A C-like struct in Python
+A C-like struct in Python, ** UNFINISHED ** 
